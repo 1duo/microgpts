@@ -1,0 +1,50 @@
+input.txt
+*/input.txt
+
+# C / C++
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.dSYM/
+*/microgpt
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Rust
+target/
+
+# Go
+bin/
+pkg/
+
+# Kotlin / JVM
+*.class
+*.jar
+.gradle/
+.kotlin/
+
+# Swift
+.build/
+
+# TypeScript / Node
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Zig
+.zig-cache/
+zig-out/
+
+# Misc cache
+.cache/
+.DS_Store
